@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SURAKSHA-AI scam",
+  "description": "A comprehensive AI-powered application to protect Indian users from SMS, link, screenshot, and phone-based payment scams using advanced reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
